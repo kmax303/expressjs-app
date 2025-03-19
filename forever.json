@@ -1,6 +1,6 @@
 {
     "uid": "expressjsapp",
-    "append": false,
+    "append": true,
     "watch": false,
     "script": "app.js",
     "sourceDir": "/var/www/app/dist"
